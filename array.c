@@ -16,6 +16,7 @@
         printf("age: %d\n" , students[i].age);
         printf("CGPA:%f\n" , students[i].gpa);
         printf("\n");
+        printf("\n");
     }
 
     return 0;
